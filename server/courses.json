@@ -1,0 +1,16 @@
+{
+    "courses":[
+        {
+            "name":"React",
+            "id":1
+        },
+        {
+            "name":"Bootstrap",
+            "id":2
+        },
+        {
+            "name":"Javascript",
+            "id":3
+        }
+    ]
+}
